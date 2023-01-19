@@ -11,7 +11,7 @@
 <form method="post" action="include.jsp">
 	이름 : <input type="text" name="name"><p>
 	<input type="submit" value="보내기">
-	안녕 :
+	안녕 : 핫픽스
 </form>
 </body>
 </html>
