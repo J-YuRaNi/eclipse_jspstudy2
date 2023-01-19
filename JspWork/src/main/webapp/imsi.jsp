@@ -25,6 +25,5 @@ for(int i=0;i<count;i++) {
 %>
 출력할 변수명 : <h1><%=count %></h1>
 수식계산:<%=(3+5) %>
-<hr>
 </body>
 </html>
